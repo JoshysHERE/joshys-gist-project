@@ -45,5 +45,13 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ### Look-ahead and Look-behind
 
 ## Author
+Hey guys! My name is Joshua Soto. Im from the east coast but i have lived here in San Antonio for 7 years now. I started taking this course with the hopes of becoming a full stack web dev. I am a huge Philadelphia eagles fan and i love my family. In my spare time i like to play with my dog, go on walks and spend time in my garden! 
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+
+
+
+You can find me on github under the nickname JoshysHERE or click this for my profile -> https://github.com/JoshysHERE
+
+
+
+

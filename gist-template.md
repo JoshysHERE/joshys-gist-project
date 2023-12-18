@@ -1,10 +1,6 @@
-# Title (replace with your title)
-
-
+# Joshy's GIST Tutorial!
 
 ## Summary
-
-
 
 ## Table of Contents
 

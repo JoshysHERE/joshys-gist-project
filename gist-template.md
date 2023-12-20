@@ -1,4 +1,5 @@
 # Joshy's GIST HTML TAG Tutorial!
+This will be a tutorial for the regex expression matching an HTML tag. Regex expressions are used to sort through documentation and find matches to a wide variety of queries. These are not exact expressions but they are sets of characters which represent a range of items we want to isolate in a file.
 
 ## Summary
 
@@ -17,9 +18,9 @@
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
-Matching an HTML Tag – /^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/
-### Anchors
 
+### Anchors
+Some examples of anchors for regex include ^ and $ which begin and end the expression.
 ### Quantifiers
 
 ### OR Operator

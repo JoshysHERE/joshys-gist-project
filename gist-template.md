@@ -1,4 +1,4 @@
-# Joshy's GIST Tutorial!
+# Joshy's GIST HTML TAG Tutorial!
 
 ## Summary
 
@@ -17,7 +17,7 @@
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
-
+Matching an HTML Tag – /^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/
 ### Anchors
 
 ### Quantifiers

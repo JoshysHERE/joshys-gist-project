@@ -78,6 +78,8 @@ Hey guys! My name is Joshua Soto. Im from the east coast but i have lived here i
 
 You can find me on github under the nickname JoshysHERE or click this for my profile -> https://github.com/JoshysHERE
 
+### Github Gist
+https://gist.github.com/5527e38bf3c0c18b3467c3b13b82a007.git
 
-
-
+### Github Repo
+https://github.com/JoshysHERE/joshys-gist-project

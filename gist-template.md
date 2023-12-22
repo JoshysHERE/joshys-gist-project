@@ -4,6 +4,8 @@ This will be a tutorial for the regex expression matching an HTML tag. Regex exp
 ## Summary
 Regex: /^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/
 
+From left to right we have forward slashes wrapping around left to right. ^ and $ are the anchors. ^ means that this is the beginning of the string and $ represents the end of it. The < character has to match the exact character < and the brackets will need to include the range of lowercase letters from a to z. the + character matches its previous token between 1 and ∞ number of times. this may also be known as a greedy symbol. If we repeat this entire regex, we would be able to interpret it as searching for elements from a-z and for the < sign. 
+
 RegEx uses a regular expression pattern to match all <p> tags in the HTML document and extracts the text within each tag using a non-greedy quantifier.
 
 
